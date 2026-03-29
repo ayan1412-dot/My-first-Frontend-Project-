@@ -45,8 +45,7 @@ It is built using basic HTML and CSS to practice layout, styling, and UI compone
 This project is part of my learning journey as a frontend developer.
 More improvements and features will be added over time.
 
----
-Full Code:-
+----
 
 ## 🙌 Author
 * Beginner Frontend Developer
